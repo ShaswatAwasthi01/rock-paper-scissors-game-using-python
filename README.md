@@ -1,0 +1,2 @@
+# rock-paper-scissors-game-using-python
+Python is a simple and easy to understand language and also i am using it since long time. Therefore, I have designed my childhood game (rock-paper-scissors) in Python language. I have written a code for the rock-paper-scissors game in Python Language. This is a single player game. One player is the user himself and the second player will be the computer system itself. 
